@@ -1,0 +1,32 @@
+# Slate (dark) — https://diagrammo.app/slate/
+mode = "dark"
+
+accent = "#5b9bd5"
+selection = "#29323e"
+muted = "#38424f"
+
+background = "#161b22"
+dark_background = "#11151b"
+darker_background = "#0c1014"
+lighter_background = "#202833"
+
+foreground = "#e6eaef"
+dark_foreground = "#6e7a87"
+light_foreground = "#9aa5b1"
+bright_foreground = "#f4f7fa"
+
+red = "#e07b6e"
+yellow = "#d9bd5a"
+orange = "#e0975a"
+green = "#74b56e"
+cyan = "#45b3a3"
+blue = "#5b9bd5"
+magenta = "#a585c9"
+brown = "#9c7a5f"
+
+bright_red = "#ec9184"
+bright_yellow = "#e6cd72"
+bright_green = "#8bc785"
+bright_cyan = "#62b0d9"
+bright_blue = "#7db2e2"
+bright_magenta = "#b99adb"
