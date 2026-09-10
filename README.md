@@ -6,11 +6,11 @@ in `backgrounds/`.
 Slate is a palette built to be read on a screen in a meeting — nine categorical
 hues that stay distinct from one another, on a calm blue-grey ground. See
 <https://diagrammo.app/slate/>. A light counterpart lives at
-[omarchy-slate-light-theme](../../../omarchy-slate-light-theme).
+[Slate Light](https://github.com/demian0311/omarchy-slate-light-theme).
 
 ## Install
 
-    omarchy theme install https://github.com/REPLACE-ME/omarchy-slate-dark-theme.git
+    omarchy theme install https://github.com/demian0311/omarchy-slate-dark-theme.git
 
 Then pick it from the theme menu, or:
 
