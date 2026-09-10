@@ -1,0 +1,63 @@
+Slate Dark — an Omarchy theme
+Copyright (c) 2026 Demian
+
+This repository contains material under three different sets of terms. They are
+separated by file, and nothing here makes any other file share-alike.
+
+
+1. THEME DEFINITION AND DOCUMENTATION — MIT
+   Applies to: colors.toml, icons.theme, README.md, backgrounds/CREDITS.md,
+   this LICENSE.
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+
+2. GENERATED BACKGROUNDS — CC BY 4.0
+   Applies to: backgrounds/01-dunefield.png, 02-contour.png,
+   03-quasicrystal.png, 04-flow.png, 05-moire.png, 06-phyllotaxis.png
+
+   These six are original works with no source image — each is a scalar or
+   vector field drawn as line art and rasterised from SVG. They are licensed
+   under the Creative Commons Attribution 4.0 International License:
+
+       https://creativecommons.org/licenses/by/4.0/
+
+   You may share and adapt them, including commercially, provided you give
+   appropriate credit. They carry no share-alike obligation.
+
+
+3. POSTERISED PICTURES — SEE backgrounds/CREDITS.md
+   Applies to: backgrounds/07-vestrahorn.png, backgrounds/08-bierstadt.png
+
+   These two are derived from third-party source images and keep those images'
+   terms. They are NOT covered by sections 1 or 2.
+
+   08-bierstadt.png derives from Albert Bierstadt, "Looking Down Yosemite
+   Valley, California" (1865), which is in the public domain. No restriction.
+
+   07-vestrahorn.png derives from a photograph by Böhringer Friedrich
+   (Wikimedia Commons user "Böhringer") licensed CC BY-SA 4.0. This file is a
+   derivative work and therefore carries the same terms:
+
+       https://creativecommons.org/licenses/by-sa/4.0/
+
+   If you redistribute 07-vestrahorn.png, modified or not, you must keep the
+   attribution in backgrounds/CREDITS.md with it and license your version under
+   CC BY-SA 4.0. This obligation attaches to that one file only. Removing it
+   from a fork removes the obligation with it.
